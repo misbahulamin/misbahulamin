@@ -15,16 +15,6 @@
 <a href="https://codeforces.com/profile/misbahul.amin">
    <img src="https://raw.githubusercontent.com/misbahul.amin/ct-stats/main/output/max_rating.svg" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" />
-
-<b>&#128200; Competitive Programming</b>
-<br />
-<p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
-</p>
-<br/>
-<br/>
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
