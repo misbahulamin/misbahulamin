@@ -34,10 +34,6 @@
 <br />
 
 ---
-  ### :zap: GitHub Stats
-  <br/>
-  <img align="center" alt="Rahat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahat-khan-pathan&show_icons=true&theme=tokyonight" />
-<br />
 
 ---
   
