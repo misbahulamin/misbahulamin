@@ -1,26 +1,19 @@
-### Hi there, I'm Rahat Khan Pathan 👋
+### Hi there, I'm Misbahul Amin 👋
 
-## I'm a Learner, Problem Solver, Developer, and Teacher!!
-
-- 🥅 2019 Goals: To solve 1000+ problems and participate ICPC Dhaka Regional (Done both)
-- 🥅 2020 Goals: To become codeforces pupil and solve 2000+ problems (Done both)
-- 🥅 2021 Goals: To become codeforces specialist, learn web development and get a job (Done all)
-- 🥅 2022 Goals: To crack tech giant (Microsoft cracked and recommended as Software Engineer)
-- 🥅 2023 Goals: To bring love of my life home (Almost Done)
-
+## I'm a Learner, Problem Solver, Developer, and Student!!
 
 ### Connect with me:
 
 [<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
 
-<a href="https://www.linkedin.com/in/rahat-khan-pathan/">
+<a href="https://www.linkedin.com/in/misbahulamin/">
     <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
 </a>
 <br />
 <br />
 
-<a href="https://codeforces.com/profile/rahat_khan_pathan">
-   <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
+<a href="https://codeforces.com/profile/misbahul.amin">
+   <img src="https://raw.githubusercontent.com/misbahul.amin/ct-stats/main/output/max_rating.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" />
 
@@ -43,7 +36,6 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
